@@ -1,0 +1,9 @@
+seaborn
+Flask
+pandas
+numpy
+scikit-learn
+matplotlib
+torch
+torchvision
+torchaudio
